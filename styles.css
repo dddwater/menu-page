@@ -111,6 +111,18 @@ section {
   margin-top: 0;
 }
 
+.allergen-note {
+  margin: 10px 0 0;
+  padding: 8px 10px;
+  border: 1px solid #f0b36b;
+  border-radius: 8px;
+  background: #fff4e8;
+  color: #a14d00;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
 .item-footer {
   display: flex;
   align-items: center;
